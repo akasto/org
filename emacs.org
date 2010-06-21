@@ -1,1 +1,4 @@
 something about emacs
+| command     | action               | keys  |
+| kill buffer | kills current buffer | C-x k |
+|             |                      |       |
